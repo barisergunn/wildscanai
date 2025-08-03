@@ -56,5 +56,8 @@
 			<string>cstr6suwn9.skadnetwork</string>
 		</dict>
 	</array>
+	<!-- Kamera erişimi için açıklama -->
+    <key>NSCameraUsageDescription</key>
+    <string>Camera access is required to capture photos of insects and reptiles for identification.</string>
 </dict>
 </plist>
