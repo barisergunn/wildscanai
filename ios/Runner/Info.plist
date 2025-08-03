@@ -45,6 +45,9 @@
 	<true/>
 	<key>UIApplicationSupportsIndirectInputEvents</key>
 	<true/>
+	
+	<key>ITSAppUsesNonExemptEncryption</key>
+	<false/>
 
 	<!-- Google AdMob Test App ID -->
 	<key>GADApplicationIdentifier</key>
