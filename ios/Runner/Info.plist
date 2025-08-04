@@ -51,7 +51,7 @@
 
 	<!-- Google AdMob Test App ID -->
 	<key>GADApplicationIdentifier</key>
-	<string>ca-app-pub-3940256099942544~1458002511</string>
+	<string>ca-app-pub-9754909887066613~1249044976</string>
 	<key>SKAdNetworkItems</key>
 	<array>
 		<dict>

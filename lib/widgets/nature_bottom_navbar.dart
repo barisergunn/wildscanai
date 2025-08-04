@@ -34,7 +34,7 @@ class NatureBottomNavBar extends StatelessWidget {
         ],
       ),
       child: Padding(
-        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 4), // vertical padding 4
+        padding: const EdgeInsets.symmetric(horizontal: 8, vertical: 6), // vertical padding 4
         child: Row(
           mainAxisAlignment: MainAxisAlignment.spaceAround,
           children: items.asMap().entries.map((entry) {
